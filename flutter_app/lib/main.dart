@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     dio = Dio(
       BaseOptions(
-        baseUrl: 'https://xxx.ngrok.io',
+        baseUrl: 'https://api-46q2ogho3q-as.a.run.app',
       ),
     );
 
